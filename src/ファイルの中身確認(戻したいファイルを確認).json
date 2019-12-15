@@ -2,7 +2,7 @@
   "alfredsnippet" : {
     "snippet" : "git show HEAD^:path\/to\/file",
     "dontautoexpand" : true,
-    "uid" : "git",
+    "uid" : "Gitコマンド",
     "name" : "ファイルの中身確認(戻したいファイルを確認)",
     "keyword" : ""
   }

@@ -2,7 +2,7 @@
   "alfredsnippet" : {
     "snippet" : "git checkout .",
     "dontautoexpand" : true,
-    "uid" : "git",
+    "uid" : "Gitコマンド",
     "name" : "コミット前の編集ファイルの変更をなし",
     "keyword" : ""
   }

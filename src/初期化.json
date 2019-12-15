@@ -2,7 +2,7 @@
   "alfredsnippet" : {
     "snippet" : "git init",
     "dontautoexpand" : true,
-    "uid" : "git",
+    "uid" : "Gitコマンド",
     "name" : "初期化",
     "keyword" : ""
   }

@@ -2,7 +2,7 @@
   "alfredsnippet" : {
     "snippet" : "git diff {古いほうのブランチ} {更新したほうのブランチ} > {path\/to\/hogehoge.diff}",
     "dontautoexpand" : true,
-    "uid" : "git",
+    "uid" : "Gitコマンド",
     "name" : "ブランチ間のDiffを取る",
     "keyword" : ""
   }

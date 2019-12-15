@@ -2,7 +2,7 @@
   "alfredsnippet" : {
     "snippet" : "git diff {作業前のコミットID} {最新のコミットID} > {path\/to\/hogehoge.diff}",
     "dontautoexpand" : true,
-    "uid" : "git",
+    "uid" : "Gitコマンド",
     "name" : "コミット間のDiffを取る",
     "keyword" : ""
   }

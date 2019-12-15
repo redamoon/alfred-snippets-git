@@ -2,7 +2,7 @@
   "alfredsnippet" : {
     "snippet" : "git config user.name '名前'",
     "dontautoexpand" : true,
-    "uid" : "git",
+    "uid" : "Gitコマンド",
     "name" : "ユーザ名変更",
     "keyword" : ""
   }

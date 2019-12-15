@@ -1,7 +1,7 @@
 {
   "alfredsnippet" : {
     "snippet" : "git stash list",
-    "uid" : "git",
+    "uid" : "Gitコマンド",
     "name" : "stashのリスト確認",
     "keyword" : ""
   }
