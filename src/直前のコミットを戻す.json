@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git reset --soft HEAD^1",
+    "dontautoexpand" : true,
+    "uid" : "git",
+    "name" : "直前のコミットを戻す",
+    "keyword" : ""
+  }
+}

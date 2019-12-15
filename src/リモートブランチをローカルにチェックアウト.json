@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git checkout -b new-branch origin\/new-branch",
+    "uid" : "git",
+    "name" : "リモートブランチをローカルにチェックアウト",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git branch -a",
+    "dontautoexpand" : true,
+    "uid" : "git",
+    "name" : "ブランチの確認（ローカル\/リモート）",
+    "keyword" : ""
+  }
+}

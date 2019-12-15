@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git checkout HEAD^ path\/to\/file",
+    "dontautoexpand" : true,
+    "uid" : "git",
+    "name" : "ファイルを特定のバージョンに戻す",
+    "keyword" : ""
+  }
+}

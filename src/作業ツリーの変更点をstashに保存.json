@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git stash",
+    "uid" : "git",
+    "name" : "作業ツリーの変更点をstashに保存",
+    "keyword" : ""
+  }
+}

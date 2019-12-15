@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git push origin :branch_name",
+    "dontautoexpand" : true,
+    "uid" : "git",
+    "name" : "リモートブランチ削除",
+    "keyword" : ""
+  }
+}

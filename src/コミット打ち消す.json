@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git revert {コミットID}",
+    "dontautoexpand" : true,
+    "uid" : "git",
+    "name" : "コミット打ち消す",
+    "keyword" : ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git config user.name '名前'",
+    "dontautoexpand" : true,
+    "uid" : "git",
+    "name" : "ユーザ名変更",
+    "keyword" : ""
+  }
+}

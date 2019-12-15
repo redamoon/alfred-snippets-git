@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git init",
+    "dontautoexpand" : true,
+    "uid" : "git",
+    "name" : "初期化",
+    "keyword" : ""
+  }
+}

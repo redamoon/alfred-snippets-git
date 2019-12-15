@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git reflog",
+    "dontautoexpand" : true,
+    "uid" : "git",
+    "name" : "resetする前のコミット情報もまとめて確認",
+    "keyword" : ""
+  }
+}

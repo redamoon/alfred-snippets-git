@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git add .",
+    "dontautoexpand" : true,
+    "uid" : "git",
+    "name" : "ファイルを追加",
+    "keyword" : ""
+  }
+}
