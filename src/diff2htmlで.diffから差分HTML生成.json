@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "diff2html -i file {Diffファイル .diff} -s side -F {出力HTML名}.html",
+    "dontautoexpand" : true,
+    "uid" : "Gitコマンド",
+    "name" : "diff2htmlで.diffから差分HTML生成",
+    "keyword" : ""
+  }
+}

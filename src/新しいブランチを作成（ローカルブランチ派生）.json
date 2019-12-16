@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git checkout -b {新しいブランチ名}",
+    "uid" : "Gitコマンド",
+    "name" : "新しいブランチを作成（ローカルブランチ派生）",
+    "keyword" : ""
+  }
+}

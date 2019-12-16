@@ -1,6 +1,6 @@
 {
   "alfredsnippet" : {
-    "snippet" : "git push origin :branch_name",
+    "snippet" : "git push {接続先:origin} :{ブランチ名}",
     "dontautoexpand" : true,
     "uid" : "Gitコマンド",
     "name" : "リモートブランチ削除",

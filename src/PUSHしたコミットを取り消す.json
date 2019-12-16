@@ -1,6 +1,6 @@
 {
   "alfredsnippet" : {
-    "snippet" : "git push origin +{$commit_id}:{$branch_name}",
+    "snippet" : "git push origin +{コミットID}:{ブランチ名}",
     "dontautoexpand" : true,
     "uid" : "Gitコマンド",
     "name" : "PUSHしたコミットを取り消す",
