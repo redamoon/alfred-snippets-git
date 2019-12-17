@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git checkout -- {ファイル名}",
+    "dontautoexpand" : true,
+    "uid" : "Gitコマンド",
+    "name" : "コミット前の特定ファイルのみ変更なし",
+    "keyword" : ""
+  }
+}

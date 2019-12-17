@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git archive HEAD `git diff --name-only HEAD~{数値} HEAD --diff-filter=ACMR` -o {zipファイル名}",
+    "dontautoexpand" : true,
+    "uid" : "Gitコマンド",
+    "name" : "ブランチの最新コミットから数値指定で差分ファイル作成",
+    "keyword" : ""
+  }
+}

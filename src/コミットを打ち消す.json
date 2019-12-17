@@ -3,7 +3,7 @@
     "snippet" : "git revert {コミットID}",
     "dontautoexpand" : true,
     "uid" : "Gitコマンド",
-    "name" : "コミット打ち消す",
+    "name" : "コミットを打ち消す",
     "keyword" : ""
   }
 }

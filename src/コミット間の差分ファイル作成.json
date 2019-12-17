@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git archive {終了コミットID} `git diff --name-only {開始コミットID} {終了コミットID} --diff-filter=ACMR` -o {zipファイル名}",
+    "dontautoexpand" : true,
+    "uid" : "Gitコマンド",
+    "name" : "コミット間の差分ファイル作成",
+    "keyword" : ""
+  }
+}

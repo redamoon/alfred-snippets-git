@@ -1,0 +1,9 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git archive {現在ブランチ名} `git diff --name-only {比較先のブランチ名（リモート/ローカル）} {現在ブランチ名} --diff-filter=ACMR` -o {zipファイル名}",
+    "dontautoexpand" : true,
+    "uid" : "Gitコマンド",
+    "name" : "ブランチ間の差分ファイル作成",
+    "keyword" : ""
+  }
+}
